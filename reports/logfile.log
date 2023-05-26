@@ -1,0 +1,602 @@
+2023-05-25 08:40:22,583 :INFO : test_signup :email generated: testzAkXGyoP@mailinator.com
+2023-05-25 08:40:52,507 :INFO : login :Profile Login is Successfull
+2023-05-25 08:40:57,601 :INFO : test_edit_profile :Personal information updated
+2023-05-25 08:40:59,066 :INFO : test_edit_profile :address information added
+2023-05-25 08:41:23,719 :INFO : login :Profile Login is Successfull
+2023-05-25 08:41:23,719 :INFO : login :Profile Login is Successfull
+2023-05-25 08:41:26,869 :INFO : test_update_password :Password is updated
+2023-05-25 08:41:32,368 :INFO : test_update_password :Profile Login is Successfully with new password
+2023-05-25 08:42:14,181 :INFO : test_forgot_password :reset password page displayed
+2023-05-25 08:42:38,401 :INFO : login :Profile Login is Successfull
+2023-05-25 08:42:38,401 :INFO : login :Profile Login is Successfull
+2023-05-25 08:42:38,401 :INFO : login :Profile Login is Successfull
+2023-05-25 08:42:52,839 :INFO : test_list_with_registered_user :New Shopping list is created
+2023-05-25 08:42:58,975 :INFO : test_list_with_registered_user :Items are added to shopping list from search results page
+2023-05-25 08:43:03,577 :INFO : test_list_with_registered_user :Product info page is displayed
+2023-05-25 08:43:16,110 :INFO : test_list_with_registered_user :Second Shoppinglist is created
+2023-05-25 08:43:16,366 :INFO : test_list_with_registered_user :Item moved to second shopping list
+2023-05-25 08:43:18,841 :INFO : test_list_with_registered_user :first shopping list is removed
+2023-05-25 08:43:21,042 :INFO : test_list_with_registered_user :shopping list name is changed
+2023-05-25 08:43:22,186 :INFO : test_list_with_registered_user :Item count is modified
+2023-05-25 08:43:27,055 :INFO : test_list_with_registered_user :Item moved to shopping cart
+2023-05-25 08:43:51,966 :INFO : login :Profile Login is Successfull
+2023-05-25 08:43:51,966 :INFO : login :Profile Login is Successfull
+2023-05-25 08:43:51,966 :INFO : login :Profile Login is Successfull
+2023-05-25 08:43:51,966 :INFO : login :Profile Login is Successfull
+2023-05-25 08:44:13,961 :INFO : test_cart_with_registered_user :Products are added to shopping cart from results page
+2023-05-25 08:44:20,076 :INFO : test_cart_with_registered_user :Item removed
+2023-05-25 08:44:25,881 :INFO : test_cart_with_registered_user :Item moved to favourites
+2023-05-25 08:44:31,222 :INFO : test_cart_with_registered_user :Product info page is displayed
+2023-05-25 08:44:44,121 :INFO : test_cart_with_registered_user :Products moved to cart from PIP
+2023-05-25 08:44:47,521 :INFO : test_cart_with_registered_user :checkout page is displayed
+2023-05-25 08:45:14,311 :INFO : login :Profile Login is Successfull
+2023-05-25 08:45:14,311 :INFO : login :Profile Login is Successfull
+2023-05-25 08:45:14,311 :INFO : login :Profile Login is Successfull
+2023-05-25 08:45:14,311 :INFO : login :Profile Login is Successfull
+2023-05-25 08:45:14,311 :INFO : login :Profile Login is Successfull
+2023-05-25 08:46:01,288 :INFO : test_list_with_guest :New Shopping list is created
+2023-05-25 08:46:11,834 :INFO : test_list_with_guest :Items are added to shopping list from search results page
+2023-05-25 08:46:16,701 :INFO : test_list_with_guest :Product info page is displayed
+2023-05-25 08:46:29,507 :INFO : test_list_with_guest :Second Shoppinglist is created
+2023-05-25 08:46:29,797 :INFO : test_list_with_guest :Item moved to second shopping list
+2023-05-25 08:46:32,435 :INFO : test_list_with_guest :first shopping list is removed
+2023-05-25 08:46:34,748 :INFO : test_list_with_guest :shopping list name is changed
+2023-05-25 08:46:35,544 :INFO : test_list_with_guest :Item count is modified
+2023-05-25 08:46:40,172 :INFO : test_list_with_guest :Item moved to shopping cart
+2023-05-25 08:47:12,898 :INFO : test_cart_with_guest :Products are added to shopping cart from results page
+2023-05-25 08:47:19,548 :INFO : test_cart_with_guest :Item removed
+2023-05-25 08:47:23,185 :INFO : test_cart_with_guest :Item moved to favourites
+2023-05-25 08:47:28,517 :INFO : test_cart_with_guest :Product info page is displayed
+2023-05-25 08:47:35,657 :INFO : test_cart_with_guest :Products moved to cart from PIP
+2023-05-25 08:47:39,287 :INFO : test_cart_with_guest :checkout page is displayed
+2023-05-25 08:48:05,786 :INFO : test_signup :email generated: testzAkXGyoP@mailinator.com
+2023-05-25 08:48:05,786 :INFO : test_signup :email generated: testzAkXGyoP@mailinator.com
+2023-05-25 08:48:14,032 :INFO : test_duplicate_session :logged out in duplicate session
+2023-05-25 08:48:18,621 :INFO : test_duplicate_session :Profile login successful
+2023-05-25 08:48:23,190 :INFO : test_duplicate_session :Profile is Deleted successfully
+2023-05-25 08:51:28,008 :INFO : test_signup :email generated: testlStTz9er@mailinator.com
+2023-05-25 08:52:17,831 :INFO : test_signup :email generated: testS4XU5NbD@mailinator.com
+2023-05-25 08:52:47,388 :INFO : login :Profile Login is Successfull
+2023-05-25 08:54:10,381 :INFO : test_signup :email generated: testwaOgcIkU@mailinator.com
+2023-05-25 08:54:41,182 :INFO : login :Profile Login is Successfull
+2023-05-25 09:03:24,283 :INFO : test_signup :email generated: testiOrW0QRo@mailinator.com
+2023-05-25 09:04:25,514 :INFO : test_signup :email generated: testI8j04z3s@mailinator.com
+2023-05-25 09:04:59,894 :INFO : login :Profile Login is Successfull
+2023-05-25 09:05:04,131 :INFO : test_edit_profile :Personal information updated
+2023-05-25 09:05:05,757 :INFO : test_edit_profile :address information added
+2023-05-25 09:05:40,511 :INFO : login :Profile Login is Successfull
+2023-05-25 09:05:40,511 :INFO : login :Profile Login is Successfull
+2023-05-25 09:05:44,372 :INFO : test_update_password :Password is updated
+2023-05-25 09:05:51,905 :INFO : test_update_password :Profile Login is Successfully with new password
+2023-05-25 09:06:35,300 :INFO : test_forgot_password :reset password page displayed
+2023-05-25 09:07:05,528 :INFO : login :Profile Login is Successfull
+2023-05-25 09:07:05,528 :INFO : login :Profile Login is Successfull
+2023-05-25 09:07:05,528 :INFO : login :Profile Login is Successfull
+2023-05-25 09:07:20,401 :INFO : test_list_with_registered_user :New Shopping list is created
+2023-05-25 09:07:25,789 :INFO : test_list_with_registered_user :Items are added to shopping list from search results page
+2023-05-25 09:07:48,452 :INFO : test_list_with_registered_user :Product info page is displayed
+2023-05-25 09:08:25,880 :INFO : test_list_with_registered_user :Second Shoppinglist is created
+2023-05-25 09:08:27,725 :INFO : test_list_with_registered_user :Item moved to second shopping list
+2023-05-25 09:08:33,985 :INFO : test_list_with_registered_user :first shopping list is removed
+2023-05-25 09:08:44,689 :INFO : test_list_with_registered_user :shopping list name is changed
+2023-05-25 09:08:46,212 :INFO : test_list_with_registered_user :Item count is modified
+2023-05-25 09:08:53,974 :INFO : test_list_with_registered_user :Item moved to shopping cart
+2023-05-25 09:09:23,880 :INFO : login :Profile Login is Successfull
+2023-05-25 09:09:23,880 :INFO : login :Profile Login is Successfull
+2023-05-25 09:09:23,880 :INFO : login :Profile Login is Successfull
+2023-05-25 09:09:23,880 :INFO : login :Profile Login is Successfull
+2023-05-25 09:09:47,286 :INFO : test_cart_with_registered_user :Products are added to shopping cart from results page
+2023-05-25 09:09:53,748 :INFO : test_cart_with_registered_user :Item removed
+2023-05-25 09:09:58,405 :INFO : test_cart_with_registered_user :Item moved to favourites
+2023-05-25 09:10:06,026 :INFO : test_cart_with_registered_user :Product info page is displayed
+2023-05-25 09:10:19,676 :INFO : test_cart_with_registered_user :Products moved to cart from PIP
+2023-05-25 09:10:22,714 :INFO : test_cart_with_registered_user :checkout page is displayed
+2023-05-25 09:10:49,093 :INFO : login :Profile Login is Successfull
+2023-05-25 09:10:49,093 :INFO : login :Profile Login is Successfull
+2023-05-25 09:10:49,093 :INFO : login :Profile Login is Successfull
+2023-05-25 09:10:49,093 :INFO : login :Profile Login is Successfull
+2023-05-25 09:10:49,093 :INFO : login :Profile Login is Successfull
+2023-05-25 09:10:55,544 :INFO : test_profile_delete :Profile is Deleted successfully
+2023-05-25 09:11:26,317 :INFO : test_list_with_guest :New Shopping list is created
+2023-05-25 09:11:37,721 :INFO : test_list_with_guest :Items are added to shopping list from search results page
+2023-05-25 09:11:43,314 :INFO : test_list_with_guest :Product info page is displayed
+2023-05-25 09:11:55,754 :INFO : test_list_with_guest :Second Shoppinglist is created
+2023-05-25 09:11:56,053 :INFO : test_list_with_guest :Item moved to second shopping list
+2023-05-25 09:11:58,567 :INFO : test_list_with_guest :first shopping list is removed
+2023-05-25 09:12:01,179 :INFO : test_list_with_guest :shopping list name is changed
+2023-05-25 09:12:02,152 :INFO : test_list_with_guest :Item count is modified
+2023-05-25 09:12:06,618 :INFO : test_list_with_guest :Item moved to shopping cart
+2023-05-25 09:12:44,315 :INFO : test_cart_with_guest :Products are added to shopping cart from results page
+2023-05-25 09:12:50,591 :INFO : test_cart_with_guest :Item removed
+2023-05-25 09:12:53,843 :INFO : test_cart_with_guest :Item moved to favourites
+2023-05-25 09:12:57,814 :INFO : test_cart_with_guest :Product info page is displayed
+2023-05-25 09:13:04,743 :INFO : test_cart_with_guest :Products moved to cart from PIP
+2023-05-25 09:13:08,769 :INFO : test_cart_with_guest :checkout page is displayed
+2023-05-25 09:13:34,599 :INFO : test_signup :email generated: testI8j04z3s@mailinator.com
+2023-05-25 09:13:34,599 :INFO : test_signup :email generated: testI8j04z3s@mailinator.com
+2023-05-25 09:18:50,460 :INFO : test_signup :email generated: testkMJciZeh@mailinator.com
+2023-05-25 09:19:21,613 :INFO : login :Profile Login is Successfull
+2023-05-25 09:19:26,035 :INFO : test_edit_profile :Personal information updated
+2023-05-25 09:19:27,823 :INFO : test_edit_profile :address information added
+2023-05-25 09:19:58,150 :INFO : login :Profile Login is Successfull
+2023-05-25 09:19:58,150 :INFO : login :Profile Login is Successfull
+2023-05-25 09:20:04,515 :INFO : test_update_password :Password is updated
+2023-05-25 09:20:12,274 :INFO : test_update_password :Profile Login is Successfully with new password
+2023-05-25 09:20:54,235 :INFO : test_forgot_password :reset password page displayed
+2023-05-25 09:21:21,634 :INFO : login :Profile Login is Successfull
+2023-05-25 09:21:21,634 :INFO : login :Profile Login is Successfull
+2023-05-25 09:21:21,634 :INFO : login :Profile Login is Successfull
+2023-05-25 09:21:37,956 :INFO : test_list_with_registered_user :New Shopping list is created
+2023-05-25 09:21:45,963 :INFO : test_list_with_registered_user :Items are added to shopping list from search results page
+2023-05-25 09:21:53,583 :INFO : test_list_with_registered_user :Product info page is displayed
+2023-05-25 09:22:06,011 :INFO : test_list_with_registered_user :Second Shoppinglist is created
+2023-05-25 09:22:06,302 :INFO : test_list_with_registered_user :Item moved to second shopping list
+2023-05-25 09:22:08,787 :INFO : test_list_with_registered_user :first shopping list is removed
+2023-05-25 09:22:11,534 :INFO : test_list_with_registered_user :shopping list name is changed
+2023-05-25 09:22:12,343 :INFO : test_list_with_registered_user :Item count is modified
+2023-05-25 09:22:16,850 :INFO : test_list_with_registered_user :Item moved to shopping cart
+2023-05-25 09:22:42,413 :INFO : login :Profile Login is Successfull
+2023-05-25 09:22:42,413 :INFO : login :Profile Login is Successfull
+2023-05-25 09:22:42,413 :INFO : login :Profile Login is Successfull
+2023-05-25 09:22:42,413 :INFO : login :Profile Login is Successfull
+2023-05-25 09:23:05,673 :INFO : test_cart_with_registered_user :Products are added to shopping cart from results page
+2023-05-25 09:23:11,575 :INFO : test_cart_with_registered_user :Item removed
+2023-05-25 09:23:15,700 :INFO : test_cart_with_registered_user :Item moved to favourites
+2023-05-25 09:23:20,554 :INFO : test_cart_with_registered_user :Product info page is displayed
+2023-05-25 09:23:33,077 :INFO : test_cart_with_registered_user :Products moved to cart from PIP
+2023-05-25 09:23:36,151 :INFO : test_cart_with_registered_user :checkout page is displayed
+2023-05-25 09:24:00,948 :INFO : login :Profile Login is Successfull
+2023-05-25 09:24:00,948 :INFO : login :Profile Login is Successfull
+2023-05-25 09:24:00,948 :INFO : login :Profile Login is Successfull
+2023-05-25 09:24:00,948 :INFO : login :Profile Login is Successfull
+2023-05-25 09:24:00,948 :INFO : login :Profile Login is Successfull
+2023-05-25 09:24:48,485 :INFO : test_list_with_guest :New Shopping list is created
+2023-05-25 09:24:58,322 :INFO : test_list_with_guest :Items are added to shopping list from search results page
+2023-05-25 09:25:04,005 :INFO : test_list_with_guest :Product info page is displayed
+2023-05-25 09:25:16,524 :INFO : test_list_with_guest :Second Shoppinglist is created
+2023-05-25 09:25:16,767 :INFO : test_list_with_guest :Item moved to second shopping list
+2023-05-25 09:25:19,227 :INFO : test_list_with_guest :first shopping list is removed
+2023-05-25 09:25:21,584 :INFO : test_list_with_guest :shopping list name is changed
+2023-05-25 09:25:22,398 :INFO : test_list_with_guest :Item count is modified
+2023-05-25 09:25:26,806 :INFO : test_list_with_guest :Item moved to shopping cart
+2023-05-25 09:25:59,234 :INFO : test_cart_with_guest :Products are added to shopping cart from results page
+2023-05-25 09:26:05,404 :INFO : test_cart_with_guest :Item removed
+2023-05-25 09:26:09,499 :INFO : test_cart_with_guest :Item moved to favourites
+2023-05-25 09:26:13,901 :INFO : test_cart_with_guest :Product info page is displayed
+2023-05-25 09:26:22,001 :INFO : test_cart_with_guest :Products moved to cart from PIP
+2023-05-25 09:26:26,484 :INFO : test_cart_with_guest :checkout page is displayed
+2023-05-25 09:26:52,254 :INFO : test_signup :email generated: testkMJciZeh@mailinator.com
+2023-05-25 09:26:52,254 :INFO : test_signup :email generated: testkMJciZeh@mailinator.com
+2023-05-25 09:26:59,486 :INFO : test_duplicate_session :logged out in duplicate session
+2023-05-25 09:27:04,327 :INFO : test_duplicate_session :Profile login successful
+2023-05-25 09:27:11,077 :INFO : test_duplicate_session :Profile is Deleted successfully
+2023-05-25 10:32:20,571 :INFO : test_signup :email generated: testHQcPSR3U@mailinator.com
+2023-05-25 10:32:54,359 :INFO : login :Profile Login is Successfull
+2023-05-25 10:33:00,578 :INFO : test_edit_profile :Personal information updated
+2023-05-25 10:33:02,899 :INFO : test_edit_profile :address information added
+2023-05-25 10:33:31,025 :INFO : login :Profile Login is Successfull
+2023-05-25 10:33:31,025 :INFO : login :Profile Login is Successfull
+2023-05-25 10:33:35,134 :INFO : test_update_password :Password is updated
+2023-05-25 10:33:44,631 :INFO : test_update_password :Profile Login is Successfully with new password
+2023-05-25 10:34:28,331 :INFO : test_forgot_password :reset password page displayed
+2023-05-25 10:34:58,310 :INFO : login :Profile Login is Successfull
+2023-05-25 10:34:58,310 :INFO : login :Profile Login is Successfull
+2023-05-25 10:34:58,310 :INFO : login :Profile Login is Successfull
+2023-05-25 10:35:12,925 :INFO : test_list_with_registered_user :New Shopping list is created
+2023-05-25 10:35:20,448 :INFO : test_list_with_registered_user :Items are added to shopping list from search results page
+2023-05-25 10:35:26,518 :INFO : test_list_with_registered_user :Product info page is displayed
+2023-05-25 10:35:40,087 :INFO : test_list_with_registered_user :Second Shoppinglist is created
+2023-05-25 10:35:40,485 :INFO : test_list_with_registered_user :Item moved to second shopping list
+2023-05-25 10:35:43,469 :INFO : test_list_with_registered_user :first shopping list is removed
+2023-05-25 10:35:46,153 :INFO : test_list_with_registered_user :shopping list name is changed
+2023-05-25 10:35:47,096 :INFO : test_list_with_registered_user :Item count is modified
+2023-05-25 10:35:52,493 :INFO : test_list_with_registered_user :Item moved to shopping cart
+2023-05-25 10:36:16,228 :INFO : login :Profile Login is Successfull
+2023-05-25 10:36:16,228 :INFO : login :Profile Login is Successfull
+2023-05-25 10:36:16,228 :INFO : login :Profile Login is Successfull
+2023-05-25 10:36:16,228 :INFO : login :Profile Login is Successfull
+2023-05-25 10:36:34,979 :INFO : test_cart_with_registered_user :Products are added to shopping cart from results page
+2023-05-25 10:36:41,296 :INFO : test_cart_with_registered_user :Item removed
+2023-05-25 10:36:44,605 :INFO : test_cart_with_registered_user :Item moved to favourites
+2023-05-25 10:36:48,699 :INFO : test_cart_with_registered_user :Product info page is displayed
+2023-05-25 10:37:01,420 :INFO : test_cart_with_registered_user :Products moved to cart from PIP
+2023-05-25 10:37:04,685 :INFO : test_cart_with_registered_user :checkout page is displayed
+2023-05-25 10:37:28,491 :INFO : login :Profile Login is Successfull
+2023-05-25 10:37:28,491 :INFO : login :Profile Login is Successfull
+2023-05-25 10:37:28,491 :INFO : login :Profile Login is Successfull
+2023-05-25 10:37:28,491 :INFO : login :Profile Login is Successfull
+2023-05-25 10:37:28,491 :INFO : login :Profile Login is Successfull
+2023-05-25 10:38:16,022 :INFO : test_list_with_guest :New Shopping list is created
+2023-05-25 10:38:23,264 :INFO : test_list_with_guest :Items are added to shopping list from search results page
+2023-05-25 10:38:28,283 :INFO : test_list_with_guest :Product info page is displayed
+2023-05-25 10:38:40,171 :INFO : test_list_with_guest :Second Shoppinglist is created
+2023-05-25 10:38:40,351 :INFO : test_list_with_guest :Item moved to second shopping list
+2023-05-25 10:38:42,883 :INFO : test_list_with_guest :first shopping list is removed
+2023-05-25 10:38:44,988 :INFO : test_list_with_guest :shopping list name is changed
+2023-05-25 10:38:45,705 :INFO : test_list_with_guest :Item count is modified
+2023-05-25 10:38:50,509 :INFO : test_list_with_guest :Item moved to shopping cart
+2023-05-25 10:39:21,201 :INFO : test_cart_with_guest :Products are added to shopping cart from results page
+2023-05-25 10:39:27,481 :INFO : test_cart_with_guest :Item removed
+2023-05-25 10:39:30,524 :INFO : test_cart_with_guest :Item moved to favourites
+2023-05-25 10:39:34,191 :INFO : test_cart_with_guest :Product info page is displayed
+2023-05-25 10:39:41,396 :INFO : test_cart_with_guest :Products moved to cart from PIP
+2023-05-25 10:39:44,880 :INFO : test_cart_with_guest :checkout page is displayed
+2023-05-25 10:40:09,306 :INFO : test_signup :email generated: testHQcPSR3U@mailinator.com
+2023-05-25 10:40:09,306 :INFO : test_signup :email generated: testHQcPSR3U@mailinator.com
+2023-05-25 10:40:16,101 :INFO : test_duplicate_session :logged out in duplicate session
+2023-05-25 10:40:20,843 :INFO : test_duplicate_session :Profile login successful
+2023-05-25 10:40:25,471 :INFO : test_duplicate_session :Profile is Deleted successfully
+2023-05-25 10:43:36,390 :INFO : test_signup :email generated: testhvEaNMQ7@mailinator.com
+2023-05-25 10:44:08,025 :INFO : login :Profile Login is Successfull
+2023-05-25 10:46:28,947 :INFO : test_signup :email generated: testt8hd2aJw@mailinator.com
+2023-05-25 10:46:57,919 :INFO : login :Profile Login is Successfull
+2023-05-25 10:48:57,131 :INFO : test_signup :email generated: test4kIwxd3r@mailinator.com
+2023-05-25 10:49:32,412 :INFO : login :Profile Login is Successfull
+2023-05-25 10:51:54,345 :INFO : test_signup :email generated: testaA3LegPV@mailinator.com
+2023-05-25 10:52:22,798 :INFO : login :Profile Login is Successfull
+2023-05-25 10:56:01,476 :INFO : test_signup :email generated: testdBARQ95z@mailinator.com
+2023-05-25 10:56:30,382 :INFO : login :Profile Login is Successfull
+2023-05-25 10:56:39,769 :INFO : test_temp :Profile is Deleted successfully
+2023-05-25 10:57:53,627 :INFO : test_signup :email generated: testw2paGs5X@mailinator.com
+2023-05-25 10:58:24,819 :INFO : login :Profile Login is Successfull
+2023-05-25 10:58:30,385 :INFO : test_edit_profile :Personal information updated
+2023-05-25 10:58:32,418 :INFO : test_edit_profile :address information added
+2023-05-25 10:58:57,352 :INFO : login :Profile Login is Successfull
+2023-05-25 10:58:57,352 :INFO : login :Profile Login is Successfull
+2023-05-25 10:59:00,526 :INFO : test_update_password :Password is updated
+2023-05-25 10:59:06,765 :INFO : test_update_password :Profile Login is Successfully with new password
+2023-05-25 10:59:48,646 :INFO : test_forgot_password :reset password page displayed
+2023-05-25 11:00:13,871 :INFO : login :Profile Login is Successfull
+2023-05-25 11:00:13,871 :INFO : login :Profile Login is Successfull
+2023-05-25 11:00:13,871 :INFO : login :Profile Login is Successfull
+2023-05-25 11:00:27,793 :INFO : test_list_with_registered_user :New Shopping list is created
+2023-05-25 11:00:33,937 :INFO : test_list_with_registered_user :Items are added to shopping list from search results page
+2023-05-25 11:00:40,067 :INFO : test_list_with_registered_user :Product info page is displayed
+2023-05-25 11:00:52,744 :INFO : test_list_with_registered_user :Second Shoppinglist is created
+2023-05-25 11:00:53,014 :INFO : test_list_with_registered_user :Item moved to second shopping list
+2023-05-25 11:00:55,378 :INFO : test_list_with_registered_user :first shopping list is removed
+2023-05-25 11:00:58,016 :INFO : test_list_with_registered_user :shopping list name is changed
+2023-05-25 11:00:58,826 :INFO : test_list_with_registered_user :Item count is modified
+2023-05-25 11:01:04,402 :INFO : test_list_with_registered_user :Item moved to shopping cart
+2023-05-25 11:01:29,255 :INFO : login :Profile Login is Successfull
+2023-05-25 11:01:29,255 :INFO : login :Profile Login is Successfull
+2023-05-25 11:01:29,255 :INFO : login :Profile Login is Successfull
+2023-05-25 11:01:29,255 :INFO : login :Profile Login is Successfull
+2023-05-25 11:01:53,120 :INFO : test_cart_with_registered_user :Products are added to shopping cart from results page
+2023-05-25 11:01:59,139 :INFO : test_cart_with_registered_user :Item removed
+2023-05-25 11:02:02,615 :INFO : test_cart_with_registered_user :Item moved to favourites
+2023-05-25 11:02:07,235 :INFO : test_cart_with_registered_user :Product info page is displayed
+2023-05-25 11:02:21,228 :INFO : test_cart_with_registered_user :Products moved to cart from PIP
+2023-05-25 11:02:24,371 :INFO : test_cart_with_registered_user :checkout page is displayed
+2023-05-25 11:02:47,968 :INFO : login :Profile Login is Successfull
+2023-05-25 11:02:47,968 :INFO : login :Profile Login is Successfull
+2023-05-25 11:02:47,968 :INFO : login :Profile Login is Successfull
+2023-05-25 11:02:47,968 :INFO : login :Profile Login is Successfull
+2023-05-25 11:02:47,968 :INFO : login :Profile Login is Successfull
+2023-05-25 11:02:58,427 :INFO : test_profile_delete :Profile is Deleted successfully
+2023-05-25 11:03:25,677 :INFO : test_list_with_guest :New Shopping list is created
+2023-05-25 11:03:33,193 :INFO : test_list_with_guest :Items are added to shopping list from search results page
+2023-05-25 11:03:41,518 :INFO : test_list_with_guest :Product info page is displayed
+2023-05-25 11:03:53,889 :INFO : test_list_with_guest :Second Shoppinglist is created
+2023-05-25 11:03:54,125 :INFO : test_list_with_guest :Item moved to second shopping list
+2023-05-25 11:03:56,512 :INFO : test_list_with_guest :first shopping list is removed
+2023-05-25 11:03:59,257 :INFO : test_list_with_guest :shopping list name is changed
+2023-05-25 11:04:00,183 :INFO : test_list_with_guest :Item count is modified
+2023-05-25 11:04:05,008 :INFO : test_list_with_guest :Item moved to shopping cart
+2023-05-25 11:04:39,725 :INFO : test_cart_with_guest :Products are added to shopping cart from results page
+2023-05-25 11:04:45,912 :INFO : test_cart_with_guest :Item removed
+2023-05-25 11:04:50,103 :INFO : test_cart_with_guest :Item moved to favourites
+2023-05-25 11:04:55,380 :INFO : test_cart_with_guest :Product info page is displayed
+2023-05-25 11:05:03,006 :INFO : test_cart_with_guest :Products moved to cart from PIP
+2023-05-25 11:05:06,537 :INFO : test_cart_with_guest :checkout page is displayed
+2023-05-25 11:05:30,590 :INFO : test_signup :email generated: testw2paGs5X@mailinator.com
+2023-05-25 11:05:30,590 :INFO : test_signup :email generated: testw2paGs5X@mailinator.com
+2023-05-25 11:05:38,112 :INFO : test_duplicate_session :logged out in duplicate session
+2023-05-25 11:07:50,233 :INFO : test_signup :email generated: testbm7oyUfq@mailinator.com
+2023-05-25 11:08:20,736 :INFO : login :Profile Login is Successfull
+2023-05-25 11:08:26,067 :INFO : test_edit_profile :Personal information updated
+2023-05-25 11:08:27,674 :INFO : test_edit_profile :address information added
+2023-05-25 11:08:50,966 :INFO : login :Profile Login is Successfull
+2023-05-25 11:08:50,966 :INFO : login :Profile Login is Successfull
+2023-05-25 11:08:55,324 :INFO : test_update_password :Password is updated
+2023-05-25 11:09:01,041 :INFO : test_update_password :Profile Login is Successfully with new password
+2023-05-25 11:09:40,769 :INFO : test_forgot_password :reset password page displayed
+2023-05-25 11:10:04,143 :INFO : login :Profile Login is Successfull
+2023-05-25 11:10:04,143 :INFO : login :Profile Login is Successfull
+2023-05-25 11:10:04,143 :INFO : login :Profile Login is Successfull
+2023-05-25 11:10:21,383 :INFO : test_list_with_registered_user :New Shopping list is created
+2023-05-25 11:10:27,323 :INFO : test_list_with_registered_user :Items are added to shopping list from search results page
+2023-05-25 11:10:31,995 :INFO : test_list_with_registered_user :Product info page is displayed
+2023-05-25 11:10:44,866 :INFO : test_list_with_registered_user :Second Shoppinglist is created
+2023-05-25 11:10:45,120 :INFO : test_list_with_registered_user :Item moved to second shopping list
+2023-05-25 11:10:47,631 :INFO : test_list_with_registered_user :first shopping list is removed
+2023-05-25 11:10:50,913 :INFO : test_list_with_registered_user :shopping list name is changed
+2023-05-25 11:10:51,859 :INFO : test_list_with_registered_user :Item count is modified
+2023-05-25 11:10:57,496 :INFO : test_list_with_registered_user :Item moved to shopping cart
+2023-05-25 11:11:21,815 :INFO : login :Profile Login is Successfull
+2023-05-25 11:11:21,815 :INFO : login :Profile Login is Successfull
+2023-05-25 11:11:21,815 :INFO : login :Profile Login is Successfull
+2023-05-25 11:11:21,815 :INFO : login :Profile Login is Successfull
+2023-05-25 11:11:42,602 :INFO : test_cart_with_registered_user :Products are added to shopping cart from results page
+2023-05-25 11:11:48,567 :INFO : test_cart_with_registered_user :Item removed
+2023-05-25 11:11:51,675 :INFO : test_cart_with_registered_user :Item moved to favourites
+2023-05-25 11:11:56,838 :INFO : test_cart_with_registered_user :Product info page is displayed
+2023-05-25 11:12:09,879 :INFO : test_cart_with_registered_user :Products moved to cart from PIP
+2023-05-25 11:12:15,750 :INFO : test_cart_with_registered_user :checkout page is displayed
+2023-05-25 11:12:40,830 :INFO : login :Profile Login is Successfull
+2023-05-25 11:12:40,830 :INFO : login :Profile Login is Successfull
+2023-05-25 11:12:40,830 :INFO : login :Profile Login is Successfull
+2023-05-25 11:12:40,830 :INFO : login :Profile Login is Successfull
+2023-05-25 11:12:40,830 :INFO : login :Profile Login is Successfull
+2023-05-25 11:12:50,360 :INFO : test_profile_delete :Profile is Deleted successfully
+2023-05-25 11:13:14,103 :INFO : test_list_with_guest :New Shopping list is created
+2023-05-25 11:13:21,410 :INFO : test_list_with_guest :Items are added to shopping list from search results page
+2023-05-25 11:13:26,572 :INFO : test_list_with_guest :Product info page is displayed
+2023-05-25 11:13:39,500 :INFO : test_list_with_guest :Second Shoppinglist is created
+2023-05-25 11:13:39,769 :INFO : test_list_with_guest :Item moved to second shopping list
+2023-05-25 11:13:42,239 :INFO : test_list_with_guest :first shopping list is removed
+2023-05-25 11:13:44,621 :INFO : test_list_with_guest :shopping list name is changed
+2023-05-25 11:13:46,207 :INFO : test_list_with_guest :Item count is modified
+2023-05-25 11:13:54,666 :INFO : test_list_with_guest :Item moved to shopping cart
+2023-05-25 11:14:30,024 :INFO : test_cart_with_guest :Products are added to shopping cart from results page
+2023-05-25 11:14:36,292 :INFO : test_cart_with_guest :Item removed
+2023-05-25 11:14:39,899 :INFO : test_cart_with_guest :Item moved to favourites
+2023-05-25 11:14:45,684 :INFO : test_cart_with_guest :Product info page is displayed
+2023-05-25 11:14:53,371 :INFO : test_cart_with_guest :Products moved to cart from PIP
+2023-05-25 11:14:58,050 :INFO : test_cart_with_guest :checkout page is displayed
+2023-05-25 11:15:22,754 :INFO : test_signup :email generated: testbm7oyUfq@mailinator.com
+2023-05-25 11:15:22,754 :INFO : test_signup :email generated: testbm7oyUfq@mailinator.com
+2023-05-25 11:18:22,860 :INFO : test_signup :email generated: testBGOvTpfh@mailinator.com
+2023-05-25 11:18:51,870 :INFO : test_signup :email generated: testBGOvTpfh@mailinator.com
+2023-05-25 11:18:51,870 :INFO : test_signup :email generated: testBGOvTpfh@mailinator.com
+2023-05-25 11:18:58,621 :INFO : test_temp :logged out in duplicate session
+2023-05-25 11:19:02,672 :INFO : test_temp :Profile login successful
+2023-05-25 11:19:07,940 :INFO : test_temp :Profile is Deleted successfully
+2023-05-25 12:53:51,582 :INFO : test_signup :email generated: testXKMkAxHr@mailinator.com
+2023-05-25 12:54:21,900 :INFO : test_signup :email generated: testXKMkAxHr@mailinator.com
+2023-05-25 12:54:21,900 :INFO : test_signup :email generated: testXKMkAxHr@mailinator.com
+2023-05-25 12:54:29,226 :INFO : test_temp :logged out in duplicate session
+2023-05-25 12:54:33,114 :INFO : test_temp :Profile login successful
+2023-05-25 12:54:37,681 :INFO : test_temp :Profile is Deleted successfully
+2023-05-25 13:24:21,476 :INFO : test_signup :email generated: testvz2Hswx9@mailinator.com
+2023-05-25 13:24:50,523 :INFO : login :Profile Login is Successfull
+2023-05-25 13:24:56,371 :INFO : test_edit_profile :Personal information updated
+2023-05-25 13:24:58,261 :INFO : test_edit_profile :address information added
+2023-05-25 13:25:22,092 :INFO : login :Profile Login is Successfull
+2023-05-25 13:25:22,092 :INFO : login :Profile Login is Successfull
+2023-05-25 13:25:25,679 :INFO : test_update_password :Password is updated
+2023-05-25 13:25:32,262 :INFO : test_update_password :Profile Login is Successfully with new password
+2023-05-25 13:26:11,209 :INFO : test_forgot_password :reset password page displayed
+2023-05-25 13:26:34,198 :INFO : login :Profile Login is Successfull
+2023-05-25 13:26:34,198 :INFO : login :Profile Login is Successfull
+2023-05-25 13:26:34,198 :INFO : login :Profile Login is Successfull
+2023-05-25 13:26:49,171 :INFO : test_list_with_registered_user :New Shopping list is created
+2023-05-25 13:26:56,452 :INFO : test_list_with_registered_user :Items are added to shopping list from search results page
+2023-05-25 13:27:01,346 :INFO : test_list_with_registered_user :Product info page is displayed
+2023-05-25 13:27:13,919 :INFO : test_list_with_registered_user :Second Shoppinglist is created
+2023-05-25 13:27:14,207 :INFO : test_list_with_registered_user :Item moved to second shopping list
+2023-05-25 13:27:16,633 :INFO : test_list_with_registered_user :first shopping list is removed
+2023-05-25 13:27:18,819 :INFO : test_list_with_registered_user :shopping list name is changed
+2023-05-25 13:27:19,574 :INFO : test_list_with_registered_user :Item count is modified
+2023-05-25 13:27:26,127 :INFO : test_list_with_registered_user :Item moved to shopping cart
+2023-05-25 13:27:50,748 :INFO : login :Profile Login is Successfull
+2023-05-25 13:27:50,748 :INFO : login :Profile Login is Successfull
+2023-05-25 13:27:50,748 :INFO : login :Profile Login is Successfull
+2023-05-25 13:27:50,748 :INFO : login :Profile Login is Successfull
+2023-05-25 13:28:13,636 :INFO : test_cart_with_registered_user :Products are added to shopping cart from results page
+2023-05-25 13:28:19,592 :INFO : test_cart_with_registered_user :Item removed
+2023-05-25 13:28:25,024 :INFO : test_cart_with_registered_user :Item moved to favourites
+2023-05-25 13:28:29,688 :INFO : test_cart_with_registered_user :Product info page is displayed
+2023-05-25 13:28:42,344 :INFO : test_cart_with_registered_user :Products moved to cart from PIP
+2023-05-25 13:28:45,555 :INFO : test_cart_with_registered_user :checkout page is displayed
+2023-05-25 13:29:09,874 :INFO : login :Profile Login is Successfull
+2023-05-25 13:29:09,874 :INFO : login :Profile Login is Successfull
+2023-05-25 13:29:09,874 :INFO : login :Profile Login is Successfull
+2023-05-25 13:29:09,874 :INFO : login :Profile Login is Successfull
+2023-05-25 13:29:09,874 :INFO : login :Profile Login is Successfull
+2023-05-25 13:29:20,532 :INFO : test_profile_delete :Profile is Deleted successfully
+2023-05-25 13:29:44,055 :INFO : test_list_with_guest :New Shopping list is created
+2023-05-25 13:29:51,440 :INFO : test_list_with_guest :Items are added to shopping list from search results page
+2023-05-25 13:29:58,291 :INFO : test_list_with_guest :Product info page is displayed
+2023-05-25 13:30:10,788 :INFO : test_list_with_guest :Second Shoppinglist is created
+2023-05-25 13:30:11,101 :INFO : test_list_with_guest :Item moved to second shopping list
+2023-05-25 13:30:13,433 :INFO : test_list_with_guest :first shopping list is removed
+2023-05-25 13:30:15,779 :INFO : test_list_with_guest :shopping list name is changed
+2023-05-25 13:30:16,496 :INFO : test_list_with_guest :Item count is modified
+2023-05-25 13:30:20,944 :INFO : test_list_with_guest :Item moved to shopping cart
+2023-05-25 13:30:56,351 :INFO : test_cart_with_guest :Products are added to shopping cart from results page
+2023-05-25 13:31:02,827 :INFO : test_cart_with_guest :Item removed
+2023-05-25 13:31:06,510 :INFO : test_cart_with_guest :Item moved to favourites
+2023-05-25 13:31:11,644 :INFO : test_cart_with_guest :Product info page is displayed
+2023-05-25 13:31:18,674 :INFO : test_cart_with_guest :Products moved to cart from PIP
+2023-05-25 13:31:21,985 :INFO : test_cart_with_guest :checkout page is displayed
+2023-05-25 13:31:45,964 :INFO : test_signup :email generated: testvz2Hswx9@mailinator.com
+2023-05-25 13:31:45,964 :INFO : test_signup :email generated: testvz2Hswx9@mailinator.com
+2023-05-25 13:31:53,487 :INFO : test_duplicate_session :logged out in duplicate session
+2023-05-25 13:43:44,417 :INFO : test_signup :email generated: testbKm3j0Io@mailinator.com
+2023-05-25 13:44:52,578 :INFO : test_signup :email generated: testbxesTFcu@mailinator.com
+2023-05-25 13:45:21,458 :INFO : test_signup :email generated: testbxesTFcu@mailinator.com
+2023-05-25 13:45:21,458 :INFO : test_signup :email generated: testbxesTFcu@mailinator.com
+2023-05-26 07:56:21,573 :INFO : test_signup :email generated: testC2XYmyQU@mailinator.com
+2023-05-26 07:56:50,912 :INFO : login :Profile Login is Successfull
+2023-05-26 07:56:55,843 :INFO : test_edit_profile :Personal information updated
+2023-05-26 07:56:57,158 :INFO : test_edit_profile :address information added
+2023-05-26 07:57:22,072 :INFO : login :Profile Login is Successfull
+2023-05-26 07:57:22,072 :INFO : login :Profile Login is Successfull
+2023-05-26 07:57:25,710 :INFO : test_update_password :Password is updated
+2023-05-26 07:57:31,547 :INFO : test_update_password :Profile Login is Successfully with new password
+2023-05-26 07:58:10,440 :INFO : test_forgot_password :reset password page displayed
+2023-05-26 07:58:33,868 :INFO : login :Profile Login is Successfull
+2023-05-26 07:58:33,868 :INFO : login :Profile Login is Successfull
+2023-05-26 07:58:33,868 :INFO : login :Profile Login is Successfull
+2023-05-26 07:58:49,498 :INFO : test_list_with_registered_user :New Shopping list is created
+2023-05-26 07:58:57,602 :INFO : test_list_with_registered_user :Items are added to shopping list from search results page
+2023-05-26 07:59:02,983 :INFO : test_list_with_registered_user :Product info page is displayed
+2023-05-26 07:59:14,929 :INFO : test_list_with_registered_user :Second Shoppinglist is created
+2023-05-26 07:59:15,185 :INFO : test_list_with_registered_user :Item moved to second shopping list
+2023-05-26 07:59:17,423 :INFO : test_list_with_registered_user :first shopping list is removed
+2023-05-26 07:59:20,262 :INFO : test_list_with_registered_user :shopping list name is changed
+2023-05-26 07:59:21,083 :INFO : test_list_with_registered_user :Item count is modified
+2023-05-26 07:59:25,774 :INFO : test_list_with_registered_user :Item moved to shopping cart
+2023-05-26 07:59:49,693 :INFO : login :Profile Login is Successfull
+2023-05-26 07:59:49,693 :INFO : login :Profile Login is Successfull
+2023-05-26 07:59:49,693 :INFO : login :Profile Login is Successfull
+2023-05-26 07:59:49,693 :INFO : login :Profile Login is Successfull
+2023-05-26 08:00:09,604 :INFO : test_cart_with_registered_user :Products are added to shopping cart from results page
+2023-05-26 08:00:15,982 :INFO : test_cart_with_registered_user :Item removed
+2023-05-26 08:00:19,194 :INFO : test_cart_with_registered_user :Item moved to favourites
+2023-05-26 08:00:23,138 :INFO : test_cart_with_registered_user :Product info page is displayed
+2023-05-26 08:00:37,280 :INFO : test_cart_with_registered_user :Products moved to cart from PIP
+2023-05-26 08:00:40,564 :INFO : test_cart_with_registered_user :checkout page is displayed
+2023-05-26 08:01:03,877 :INFO : login :Profile Login is Successfull
+2023-05-26 08:01:03,877 :INFO : login :Profile Login is Successfull
+2023-05-26 08:01:03,877 :INFO : login :Profile Login is Successfull
+2023-05-26 08:01:03,877 :INFO : login :Profile Login is Successfull
+2023-05-26 08:01:03,877 :INFO : login :Profile Login is Successfull
+2023-05-26 08:01:13,264 :INFO : test_profile_delete :Profile is Deleted successfully
+2023-05-26 08:01:36,843 :INFO : test_list_with_guest :New Shopping list is created
+2023-05-26 08:01:43,209 :INFO : test_list_with_guest :Items are added to shopping list from search results page
+2023-05-26 08:01:48,158 :INFO : test_list_with_guest :Product info page is displayed
+2023-05-26 08:02:00,716 :INFO : test_list_with_guest :Second Shoppinglist is created
+2023-05-26 08:02:00,957 :INFO : test_list_with_guest :Item moved to second shopping list
+2023-05-26 08:02:03,131 :INFO : test_list_with_guest :first shopping list is removed
+2023-05-26 08:02:05,381 :INFO : test_list_with_guest :shopping list name is changed
+2023-05-26 08:02:06,186 :INFO : test_list_with_guest :Item count is modified
+2023-05-26 08:02:11,762 :INFO : test_list_with_guest :Item moved to shopping cart
+2023-05-26 08:02:43,730 :INFO : test_cart_with_guest :Products are added to shopping cart from results page
+2023-05-26 08:02:50,010 :INFO : test_cart_with_guest :Item removed
+2023-05-26 08:02:53,310 :INFO : test_cart_with_guest :Item moved to favourites
+2023-05-26 08:02:58,213 :INFO : test_cart_with_guest :Product info page is displayed
+2023-05-26 08:03:05,660 :INFO : test_cart_with_guest :Products moved to cart from PIP
+2023-05-26 08:03:09,265 :INFO : test_cart_with_guest :checkout page is displayed
+2023-05-26 08:03:34,312 :INFO : test_signup :email generated: testC2XYmyQU@mailinator.com
+2023-05-26 08:03:34,312 :INFO : test_signup :email generated: testC2XYmyQU@mailinator.com
+2023-05-26 08:03:41,378 :INFO : test_duplicate_session :logged out in duplicate session
+2023-05-26 08:08:49,870 :INFO : test_signup :email generated: test3QUvJ7zP@mailinator.com
+2023-05-26 08:09:18,588 :INFO : test_signup :email generated: test3QUvJ7zP@mailinator.com
+2023-05-26 08:09:18,588 :INFO : test_signup :email generated: test3QUvJ7zP@mailinator.com
+2023-05-26 08:09:25,387 :INFO : test_temp :logged out in duplicate session
+2023-05-26 08:09:29,568 :INFO : test_temp :Profile login successful
+2023-05-26 08:09:34,673 :INFO : test_temp :Profile is Deleted successfully
+2023-05-26 08:10:36,038 :INFO : test_signup :email generated: testnKfYsNMq@mailinator.com
+2023-05-26 08:11:06,195 :INFO : login :Profile Login is Successfull
+2023-05-26 08:11:12,145 :INFO : test_edit_profile :Personal information updated
+2023-05-26 08:11:13,876 :INFO : test_edit_profile :address information added
+2023-05-26 08:11:37,544 :INFO : login :Profile Login is Successfull
+2023-05-26 08:11:37,544 :INFO : login :Profile Login is Successfull
+2023-05-26 08:11:41,228 :INFO : test_update_password :Password is updated
+2023-05-26 08:11:48,609 :INFO : test_update_password :Profile Login is Successfully with new password
+2023-05-26 08:12:28,063 :INFO : test_forgot_password :reset password page displayed
+2023-05-26 08:12:52,316 :INFO : login :Profile Login is Successfull
+2023-05-26 08:12:52,316 :INFO : login :Profile Login is Successfull
+2023-05-26 08:12:52,316 :INFO : login :Profile Login is Successfull
+2023-05-26 08:13:06,546 :INFO : test_list_with_registered_user :New Shopping list is created
+2023-05-26 08:13:12,076 :INFO : test_list_with_registered_user :Items are added to shopping list from search results page
+2023-05-26 08:13:17,110 :INFO : test_list_with_registered_user :Product info page is displayed
+2023-05-26 08:13:29,240 :INFO : test_list_with_registered_user :Second Shoppinglist is created
+2023-05-26 08:13:29,483 :INFO : test_list_with_registered_user :Item moved to second shopping list
+2023-05-26 08:13:31,836 :INFO : test_list_with_registered_user :first shopping list is removed
+2023-05-26 08:13:33,946 :INFO : test_list_with_registered_user :shopping list name is changed
+2023-05-26 08:13:34,683 :INFO : test_list_with_registered_user :Item count is modified
+2023-05-26 08:13:39,366 :INFO : test_list_with_registered_user :Item moved to shopping cart
+2023-05-26 08:14:05,339 :INFO : login :Profile Login is Successfull
+2023-05-26 08:14:05,339 :INFO : login :Profile Login is Successfull
+2023-05-26 08:14:05,339 :INFO : login :Profile Login is Successfull
+2023-05-26 08:14:05,339 :INFO : login :Profile Login is Successfull
+2023-05-26 08:14:26,534 :INFO : test_cart_with_registered_user :Products are added to shopping cart from results page
+2023-05-26 08:14:32,894 :INFO : test_cart_with_registered_user :Item removed
+2023-05-26 08:14:37,337 :INFO : test_cart_with_registered_user :Item moved to favourites
+2023-05-26 08:14:42,329 :INFO : test_cart_with_registered_user :Product info page is displayed
+2023-05-26 08:14:56,764 :INFO : test_cart_with_registered_user :Products moved to cart from PIP
+2023-05-26 08:15:00,260 :INFO : test_cart_with_registered_user :checkout page is displayed
+2023-05-26 08:15:26,122 :INFO : login :Profile Login is Successfull
+2023-05-26 08:15:26,122 :INFO : login :Profile Login is Successfull
+2023-05-26 08:15:26,122 :INFO : login :Profile Login is Successfull
+2023-05-26 08:15:26,122 :INFO : login :Profile Login is Successfull
+2023-05-26 08:15:26,122 :INFO : login :Profile Login is Successfull
+2023-05-26 08:15:35,299 :INFO : test_profile_delete :Profile is Deleted successfully
+2023-05-26 08:16:00,102 :INFO : test_list_with_guest :New Shopping list is created
+2023-05-26 08:16:08,940 :INFO : test_list_with_guest :Items are added to shopping list from search results page
+2023-05-26 08:16:14,346 :INFO : test_list_with_guest :Product info page is displayed
+2023-05-26 08:16:26,831 :INFO : test_list_with_guest :Second Shoppinglist is created
+2023-05-26 08:16:27,133 :INFO : test_list_with_guest :Item moved to second shopping list
+2023-05-26 08:16:29,540 :INFO : test_list_with_guest :first shopping list is removed
+2023-05-26 08:16:31,900 :INFO : test_list_with_guest :shopping list name is changed
+2023-05-26 08:16:32,955 :INFO : test_list_with_guest :Item count is modified
+2023-05-26 08:16:38,596 :INFO : test_list_with_guest :Item moved to shopping cart
+2023-05-26 08:17:15,842 :INFO : test_cart_with_guest :Products are added to shopping cart from results page
+2023-05-26 08:17:22,033 :INFO : test_cart_with_guest :Item removed
+2023-05-26 08:17:25,625 :INFO : test_cart_with_guest :Item moved to favourites
+2023-05-26 08:17:29,849 :INFO : test_cart_with_guest :Product info page is displayed
+2023-05-26 08:17:37,670 :INFO : test_cart_with_guest :Products moved to cart from PIP
+2023-05-26 08:17:41,150 :INFO : test_cart_with_guest :checkout page is displayed
+2023-05-26 08:18:05,889 :INFO : test_signup :email generated: testnKfYsNMq@mailinator.com
+2023-05-26 08:18:05,889 :INFO : test_signup :email generated: testnKfYsNMq@mailinator.com
+2023-05-26 08:18:14,234 :INFO : test_duplicate_session :logged out in duplicate session
+2023-05-26 08:20:10,475 :INFO : test_signup :email generated: testcmy4gtrA@mailinator.com
+2023-05-26 08:21:02,093 :INFO : test_signup :email generated: testWr1u52Gn@mailinator.com
+2023-05-26 08:21:30,813 :INFO : test_signup :email generated: testWr1u52Gn@mailinator.com
+2023-05-26 08:21:30,813 :INFO : test_signup :email generated: testWr1u52Gn@mailinator.com
+2023-05-26 08:21:37,618 :INFO : test_temp :logged out in duplicate session
+2023-05-26 08:21:41,580 :INFO : test_temp :Profile login successful
+2023-05-26 08:21:46,665 :INFO : test_temp :Profile is Deleted successfully
+2023-05-26 08:23:43,042 :INFO : test_signup :email generated: test83DPvh15@mailinator.com
+2023-05-26 08:24:14,739 :INFO : login :Profile Login is Successfull
+2023-05-26 08:24:18,365 :INFO : test_edit_profile :Personal information updated
+2023-05-26 08:24:20,168 :INFO : test_edit_profile :address information added
+2023-05-26 08:24:48,436 :INFO : login :Profile Login is Successfull
+2023-05-26 08:24:48,436 :INFO : login :Profile Login is Successfull
+2023-05-26 08:24:54,167 :INFO : test_update_password :Password is updated
+2023-05-26 08:25:00,255 :INFO : test_update_password :Profile Login is Successfully with new password
+2023-05-26 08:25:45,012 :INFO : test_forgot_password :reset password page displayed
+2023-05-26 08:26:09,315 :INFO : login :Profile Login is Successfull
+2023-05-26 08:26:09,315 :INFO : login :Profile Login is Successfull
+2023-05-26 08:26:09,315 :INFO : login :Profile Login is Successfull
+2023-05-26 08:26:24,118 :INFO : test_list_with_registered_user :New Shopping list is created
+2023-05-26 08:26:29,633 :INFO : test_list_with_registered_user :Items are added to shopping list from search results page
+2023-05-26 08:26:34,298 :INFO : test_list_with_registered_user :Product info page is displayed
+2023-05-26 08:26:47,492 :INFO : test_list_with_registered_user :Second Shoppinglist is created
+2023-05-26 08:26:47,726 :INFO : test_list_with_registered_user :Item moved to second shopping list
+2023-05-26 08:26:49,973 :INFO : test_list_with_registered_user :first shopping list is removed
+2023-05-26 08:26:52,348 :INFO : test_list_with_registered_user :shopping list name is changed
+2023-05-26 08:26:53,110 :INFO : test_list_with_registered_user :Item count is modified
+2023-05-26 08:26:58,271 :INFO : test_list_with_registered_user :Item moved to shopping cart
+2023-05-26 08:27:22,517 :INFO : login :Profile Login is Successfull
+2023-05-26 08:27:22,517 :INFO : login :Profile Login is Successfull
+2023-05-26 08:27:22,517 :INFO : login :Profile Login is Successfull
+2023-05-26 08:27:22,517 :INFO : login :Profile Login is Successfull
+2023-05-26 08:27:41,415 :INFO : test_cart_with_registered_user :Products are added to shopping cart from results page
+2023-05-26 08:27:47,587 :INFO : test_cart_with_registered_user :Item removed
+2023-05-26 08:27:50,787 :INFO : test_cart_with_registered_user :Item moved to favourites
+2023-05-26 08:27:55,131 :INFO : test_cart_with_registered_user :Product info page is displayed
+2023-05-26 08:28:08,050 :INFO : test_cart_with_registered_user :Products moved to cart from PIP
+2023-05-26 08:28:10,983 :INFO : test_cart_with_registered_user :checkout page is displayed
+2023-05-26 08:28:34,640 :INFO : login :Profile Login is Successfull
+2023-05-26 08:28:34,640 :INFO : login :Profile Login is Successfull
+2023-05-26 08:28:34,640 :INFO : login :Profile Login is Successfull
+2023-05-26 08:28:34,640 :INFO : login :Profile Login is Successfull
+2023-05-26 08:28:34,640 :INFO : login :Profile Login is Successfull
+2023-05-26 08:28:44,303 :INFO : test_profile_delete :Profile is Deleted successfully
+2023-05-26 08:29:09,416 :INFO : test_list_with_guest :New Shopping list is created
+2023-05-26 08:29:16,770 :INFO : test_list_with_guest :Items are added to shopping list from search results page
+2023-05-26 08:29:24,101 :INFO : test_list_with_guest :Product info page is displayed
+2023-05-26 08:29:36,452 :INFO : test_list_with_guest :Second Shoppinglist is created
+2023-05-26 08:29:36,702 :INFO : test_list_with_guest :Item moved to second shopping list
+2023-05-26 08:29:39,153 :INFO : test_list_with_guest :first shopping list is removed
+2023-05-26 08:29:41,815 :INFO : test_list_with_guest :shopping list name is changed
+2023-05-26 08:29:42,749 :INFO : test_list_with_guest :Item count is modified
+2023-05-26 08:29:47,640 :INFO : test_list_with_guest :Item moved to shopping cart
+2023-05-26 08:30:20,662 :INFO : test_cart_with_guest :Products are added to shopping cart from results page
+2023-05-26 08:30:26,939 :INFO : test_cart_with_guest :Item removed
+2023-05-26 08:30:30,278 :INFO : test_cart_with_guest :Item moved to favourites
+2023-05-26 08:30:35,928 :INFO : test_cart_with_guest :Product info page is displayed
+2023-05-26 08:30:43,107 :INFO : test_cart_with_guest :Products moved to cart from PIP
+2023-05-26 08:30:47,012 :INFO : test_cart_with_guest :checkout page is displayed
+2023-05-26 08:31:11,689 :INFO : test_signup :email generated: test83DPvh15@mailinator.com
+2023-05-26 08:31:11,689 :INFO : test_signup :email generated: test83DPvh15@mailinator.com
+2023-05-26 08:31:18,700 :INFO : test_duplicate_session :logged out in duplicate session
+2023-05-26 08:31:41,469 :INFO : test_duplicate_session :Profile login successful
+2023-05-26 08:31:46,690 :INFO : test_duplicate_session :Profile is Deleted successfully
+2023-05-26 12:14:15,913 :INFO : test_signup :email generated: testwbF4vB6s@mailinator.com
+2023-05-26 12:14:56,513 :INFO : test_signup :email generated: testnhkSB5oJ@mailinator.com
+2023-05-26 12:15:25,572 :INFO : login :Profile Login is Successfull
